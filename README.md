@@ -1,10 +1,8 @@
 # Time-Zone-Bot
-Time zone bot for discord.
-
+Time zone bot for discord
 Also has a feature to send a happy birthday message in a specefied channel ID
 
 ---
-
 ## Initial setup
 
 Use pip to install the requiremnts using
@@ -13,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 Then run the code using 
-```bahs
+```bash
 python3 clock.py
 ```
 
@@ -22,7 +20,15 @@ Below is an example of the bot starting
 ![Example](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/Starting.png?raw=true "Sucess")
 
 ---
+## Roles 
 
+Inorder for the bot to know what user is in which time zone, roles are used to identify users. The current Time-Zones that are supported are AST in the east all the way to PST on the west coast. The roles will need to follow the `VALID_ROLES` listed in line 86
+
+```python
+VALID_ROLES = {"atlantic", "east coast", "central", "mountain time", "west coast"}
+```
+
+---
 ## Daylight savings time
 
 The bot has the ability to toggle daylight savings time. Since some regions don't observe daylight savings time this seemed like the easiest way to implemnt this. To enable and disable daylight savings time just type 
