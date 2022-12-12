@@ -1,5 +1,5 @@
 # Time-Zone-Bot
-Time zone bot for discord
+Time zone bot for discord that will translate time that a user says into discord UTC timestamps that will be tranlated into other users local time
 
 Also has a feature to send a happy birthday message in a specefied channel ID
 
@@ -67,4 +67,4 @@ message_channel_id=555555555555555555
 
 ---
 
-Thats is. This bot really is simple. Feel free 
+Thats is. This bot really is simple. Feel free to make additions
