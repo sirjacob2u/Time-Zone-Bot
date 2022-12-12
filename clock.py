@@ -20,11 +20,11 @@ class MyClient(discord.Client):
 
         # List of birthdays
         BIRTHDAY_LIST = {
-            'Nate': dt.date(2003, 6, 28),
-            'Bennett': dt.date(2003, 3, 25),
-            'Jacob': dt.date(2002, 7, 30),
-            'Voy': dt.date(2000, 1, 1),
-            'Connor': dt.date(2000, 1, 1),
+            'null': dt.date(2003, 1, 1),
+            'null': dt.date(2003, 1, 1),
+            'null': dt.date(2002, 1, 1),
+            'null': dt.date(2000, 1, 1),
+            'null': dt.date(2000, 1, 1),
         }
         today = dt.date.today()
         for name, birthday in BIRTHDAY_LIST.items():
