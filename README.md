@@ -71,4 +71,4 @@ message_channel_id=555555555555555555
 
 ---
 
-Thats is. This bot really is simple. Feel free to make additions
+Thats is. This bot really is simple.
