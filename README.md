@@ -4,6 +4,10 @@ Time zone bot for discord that will translate time that a user says into discord
 Also has a feature to send a happy birthday message in a specefied channel ID
 
 ---
+## Sample output
+![Example](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/example.png?raw=true "Example")
+
+---
 ## Initial setup
 
 Use pip to install the requiremnts using
