@@ -13,7 +13,7 @@ def get_unix_epochs(date_time):
 
 class MyClient(discord.Client):
         
-    @tasks.loop(dt.time(8,0,0,0))
+    @tasks.loop(time=dt.time(8,0,0,0))
     async def birthday(self):
         message_channel_id=531320324927782914
         message_channel=self.get_channel(message_channel_id)
