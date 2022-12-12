@@ -5,8 +5,7 @@ Also has a feature to send a happy birthday message in a specefied channel ID
 
 ---
 ## Sample output
-![Example](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/example.png?raw=true "Example")
-
+![Example](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/example.png?raw=true "Example")]
 ---
 ## Initial setup
 
