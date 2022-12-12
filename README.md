@@ -56,9 +56,9 @@ The bot can also send a message for a specified users birthday to a specified us
 ```python
 # List of birthdays
 BIRTHDAY_LIST = {
-'null': dt.date(2003, 1, 1),
-'null': dt.date(2003, 1, 1),
-'null': dt.date(2002, 1, 1),
+'null': dt.date(2000, 1, 1),
+'null': dt.date(2000, 1, 1),
+'null': dt.date(2000, 1, 1),
 'null': dt.date(2000, 1, 1),
 'null': dt.date(2000, 1, 1),
 ```
