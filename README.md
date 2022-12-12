@@ -10,4 +10,4 @@ Then run the code using
 ```bahs
 python3 clock.py
 ```
-![image] (https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/Starting.png)
+![alt text](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/Starting.png?raw=true "Sucess")
