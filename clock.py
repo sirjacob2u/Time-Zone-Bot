@@ -15,14 +15,14 @@ class MyClient(discord.Client):
         
     @tasks.loop(time=dt.time(8,0,0,0))
     async def birthday(self):
-        message_channel_id=531320324927782914
+        message_channel_id=555555555555555555
         message_channel=self.get_channel(message_channel_id)
 
         # List of birthdays
         BIRTHDAY_LIST = {
-            'null': dt.date(2003, 1, 1),
-            'null': dt.date(2003, 1, 1),
-            'null': dt.date(2002, 1, 1),
+            'null': dt.date(2000, 1, 1),
+            'null': dt.date(2000, 1, 1),
+            'null': dt.date(2000, 1, 1),
             'null': dt.date(2000, 1, 1),
             'null': dt.date(2000, 1, 1),
         }
