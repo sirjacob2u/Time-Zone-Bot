@@ -1,5 +1,6 @@
 # Time-Zone-Bot
-Time zone bot for discord. \n
+Time zone bot for discord.
+
 Also has a feature to send a happy birthday message in a specefied channel ID
 
 ---
