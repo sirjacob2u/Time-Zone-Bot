@@ -1,8 +1,9 @@
 # Time-Zone-Bot
-Time zone bot for discord.
+Time zone bot for discord. \n
 Also has a feature to send a happy birthday message in a specefied channel ID
 
 ---
+
 ## Initial setup
 
 Use pip to install the requiremnts using
