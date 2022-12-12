@@ -10,4 +10,5 @@ Then run the code using
 ```bahs
 python3 clock.py
 ```
-![alt text](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/Starting.png?raw=true "Sucess")
+Below is an example of the bot starting
+![Example](https://github.com/sirjacob2u/Time-Zone-Bot/blob/main/Starting.png?raw=true "Sucess")
